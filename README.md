@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Kaveriph
-- 👀 I’m interested in android application development.
-- 🌱 I’m currently learning Redux and advanced kotlin language.
-- 💞️ I’m looking to collaborate on e-commerce application development
+-
 - 
 
 <!---
